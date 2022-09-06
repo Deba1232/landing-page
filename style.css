@@ -167,6 +167,16 @@ body{
     transform: translateY(0.6px);
 }
 
+.footer{
+    background-color: #1f2937;
+    color: #ffffff;
+    font-size: 15px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
 
 ul{
     list-style: none;
